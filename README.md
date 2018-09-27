@@ -1,6 +1,6 @@
 # Welcome to the Modification Club!
 
-The DDLC Mod Template is an easy way to get started building your own game mods for Doki Doki Literature Club that adhere to [Team Salvato's IP Guidelines](http://teamsalvato.com/ip-guidelines/) for fan mods.
+The DDLC Mod Template, AliceOS Edition is an easy way to get started building your own game mods for Doki Doki Literature Club that adhere to [Team Salvato's IP Guidelines](http://teamsalvato.com/ip-guidelines/) for fan mods and are powered by AliceOS.
 
 ### Getting Started
 Follow these steps to set up the template.
